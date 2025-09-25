@@ -1,5 +1,4 @@
-module  github.com/lpz1208/Lee
-
+module github.com/lpz1208/Lee
 
 go 1.24
 
