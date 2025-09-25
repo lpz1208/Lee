@@ -1,7 +1,7 @@
 package main
 
 import (
-	"Lee/Lee"
+	"github.com/lpz1208/Lee/Lee"
 	"fmt"
 	"html/template"
 	"net/http"
